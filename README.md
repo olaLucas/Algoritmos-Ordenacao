@@ -93,6 +93,6 @@ O Selection Sort tem um desempenho relativamente ruim em comparação com algori
 
 O Selection Sort é principalmente usado para fins educacionais ou em situações em que a simplicidade da implementação é mais importante do que a eficiência. Em geral, para ordenação eficiente de grandes volumes de dados, é recomendável usar outros algoritmos, como os mencionados acima.
 
-# Documentação
+# Documentação dos códigos
 
 [DocsAlgoritmos](DocsAlgoritmos/DocsAlgoritmos.md)
