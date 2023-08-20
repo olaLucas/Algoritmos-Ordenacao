@@ -7,7 +7,7 @@ Aqui, você encontrará uma rica variedade de algoritmos de ordenação, desde o
 Meus principais objetivos incluem:
 
 1. **Aprendizado**: Fornecer explicações claras e exemplos de cada algoritmo de ordenação para ajudar a entender seus princípios fundamentais.
-2. **Implementações**: Oferecer implementações de referência em várias linguagens de programação para auxiliar no uso prático desses algoritmos.
+2. **Implementações**: Oferecer implementações de referência em linguagem C para auxiliar no uso prático desses algoritmos.
 3. **Comparação de Desempenho**: Analisar e comparar o desempenho de diferentes algoritmos de ordenação em uma variedade de cenários e tamanhos de dados.
 4. **Contribuições da Comunidade**: Incentivar contribuições da comunidade para enriquecer ainda mais esta coleção e promover o aprendizado colaborativo.
 
