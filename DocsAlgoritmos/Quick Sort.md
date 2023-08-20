@@ -1,5 +1,7 @@
 # Quick Sort
 
+Recomendo fortemente assistir a este [video](https://www.youtube.com/watch?v=wx5juM9bbFo) caso tenha dificuldades para entender este algoritmo.
+
 Este código implementa o algoritmo de rápido de ordenação (quick sort) para ordenar um array de inteiros em ordem crescente. Vou explicar o funcionamento do das principais funções passo a passo:
 
 # quickSort()
